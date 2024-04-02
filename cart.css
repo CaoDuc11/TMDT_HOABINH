@@ -1,12 +1,17 @@
-.categories{
+#box-{
+  height: 50px;
+  width: 50px;
+  margin-top: 76px;
+}
+.categories {
   text-decoration: none;
   color: black;
 }
-.sign{
+.sign {
   text-decoration: none;
   color: white;
 }
-.cart{
+.cart {
   color: #8b96a5;
 }
 .mc-nh {
@@ -1694,17 +1699,17 @@
 }
 .image-172-icon {
   position: absolute;
-  top: 0;
-  left: 120px;
-  width: 199px;
-  height: 89px;
+  top: 13px;
+  left: 125px;
+  width: 201px;
+  height: 60px;
   object-fit: cover;
   z-index: 3;
 }
 .data-hub {
   position: absolute;
   top: 16px;
-  left: 0;
+  left: 0px;
   display: inline-block;
   width: 125.2px;
   height: 42.1px;
@@ -1811,10 +1816,10 @@
 }
 .image-173-icon {
   position: absolute;
-  top: 0;
-  left: 125px;
-  width: 199px;
-  height: 89px;
+  top: 12px;
+  left: 140px;
+  width: 201px;
+  height: 60px;
   object-fit: cover;
   z-index: 2;
 }
@@ -2298,6 +2303,7 @@
 }
 .path-producer {
   align-self: stretch;
+  left: 62px;
   height: 50px;
   position: relative;
   display: inline-block;
